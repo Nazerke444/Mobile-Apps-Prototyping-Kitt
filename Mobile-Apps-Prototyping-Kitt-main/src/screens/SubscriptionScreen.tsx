@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { View, Text, StyleSheet, TouchableOpacity } from 'react-native';
-import { Button } from '../components/button';
+import Button from '../components/button';
 
 interface Props {
   onNext: () => void;

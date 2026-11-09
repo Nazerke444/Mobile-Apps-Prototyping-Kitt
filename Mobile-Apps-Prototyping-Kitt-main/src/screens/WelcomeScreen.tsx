@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, Text, StyleSheet, TextInput, TouchableOpacity } from 'react-native';
-import button from '../components/button';
+import Button from '../components/button';
 
 interface Props {
   onNext: () => void;

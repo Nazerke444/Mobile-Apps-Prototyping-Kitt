@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, Text, StyleSheet, TextInput, ScrollView, TouchableOpacity } from 'react-native';
-import { Button } from '../components/button';
+import Button from '../components/button';
 
 
 interface Props {
